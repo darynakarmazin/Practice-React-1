@@ -1,4 +1,4 @@
-# Картка блогу
+## Картка блогу
 
 Необхідно створити компонент `<BlogCard/>`, за допомогою якого ми могли б
 відображати інформацію про користувача соціальної мережі. Дані про користувача
@@ -55,7 +55,7 @@
 ## Приклад використання
 
 ```js
-import article from 'data/article.json';
+import article from "data/article.json";
 
 <BlogCard
   poster={article.poster}
